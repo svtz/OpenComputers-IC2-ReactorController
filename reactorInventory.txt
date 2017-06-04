@@ -1,0 +1,260 @@
+===slot #1
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
+===slot #2
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #3
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #4
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
+===slot #5
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #6
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #7
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
+===slot #8
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #9
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #10
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #12
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #13
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #14
+name = gregtech:gt.reactorUraniumQuad
+label = gt.reactorUraniumQuad.name
+damage = 16
+
+===slot #15
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #16
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #17
+name = gregtech:gt.reactorMOXQuad
+label = gt.reactorMOXQuad.name
+damage = 0
+
+===slot #18
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #19
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #20
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #21
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
+===slot #22
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #23
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #24
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
+===slot #25
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #26
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #27
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
+===slot #28
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
+===slot #29
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #30
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #31
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
+===slot #32
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #33
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #34
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
+===slot #35
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #36
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #37
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #39
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #40
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #41
+name = gregtech:gt.reactorUraniumQuad
+label = gt.reactorUraniumQuad.name
+damage = 16
+
+===slot #42
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #43
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #44
+name = gregtech:gt.reactorMOXQuad
+label = gt.reactorMOXQuad.name
+damage = 0
+
+===slot #45
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #46
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #47
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #48
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
+===slot #49
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #50
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #51
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
+===slot #52
+name = IC2:reactorVentSpread
+label = Component Heat Vent
+damage = 0
+
+===slot #53
+name = IC2:reactorVentGold
+label = Overclocked Heat Vent
+damage = 1
+
+===slot #54
+name = IC2:reactorPlating
+label = Reactor Plating
+damage = 0
+
